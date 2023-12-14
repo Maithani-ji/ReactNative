@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/adaptive-icon.png",
+      "sha1": "19b53640a95efdc2ccc7fc20f3ea4d0d381bb5c4"
+    },
+    {
+      "path": "src/assets/favicon.png",
+      "sha1": "cb25ca74ddc488c91522b0ae68fc846fac7f4174"
+    },
+    {
+      "path": "src/assets/icon.png",
+      "sha1": "3f71f5a8458c06b83424cc33e1f2481f601199ea"
+    },
+    {
+      "path": "src/assets/images/bikeGuy.png",
+      "sha1": "9fb5ca656ac2acad1bf0ee735a5033c76336cb49"
+    },
+    {
+      "path": "src/assets/images/bikeGuy2.gif",
+      "sha1": "a4195ec6456bd90d0880bd009d01b7c30f08ccce"
+    },
+    {
+      "path": "src/assets/images/delivery.gif",
+      "sha1": "c6a64008279e035af5b6110e5aa34071a4dd3c61"
+    },
+    {
+      "path": "src/assets/images/deliveryGuy.png",
+      "sha1": "bea0fb9bcb8dcd70e85e796d3d3be383b42364ad"
+    },
+    {
+      "path": "src/assets/images/fullStar.png",
+      "sha1": "1f11e03cdacfc72011bace2e921346be3eee2143"
+    },
+    {
+      "path": "src/assets/images/pizza.png",
+      "sha1": "14668dd8c12525d1f5fb99c045a073ff7d1f298c"
+    },
+    {
+      "path": "src/assets/images/pizzaDish.png",
+      "sha1": "e2d881aa02e2ee728f1fe087b65a05cfa7539eec"
+    },
+    {
+      "path": "src/assets/images/pizzaIcon.png",
+      "sha1": "663cf0c23e6fe8e670f4012d235f0806870de6d5"
+    },
+    {
+      "path": "src/assets/splash.png",
+      "sha1": "206a875d5dc6f23eb9515bebd899ebb9f56eca82"
+    },
+    {
+      "path": "src/assets/test.png",
+      "sha1": "3a380c3d540a2ffb27f1e79bfd82d11237bf1da1"
+    },
+    {
+      "path": "src/assets/testimage.png",
+      "sha1": "44b6bfb981fc3d9dfed584fe3de312a531ad8d69"
+    }
+  ]
+}
